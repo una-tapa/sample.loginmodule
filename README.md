@@ -79,7 +79,11 @@ Tested on WebSphere traditional 9.0.5.14.
     TLSv1
     ```
 - "Admin1" is not able to login to the AdminConsole
- ![login failure panel for Admin1](./media/loginfailure.png)
+- Screenshot when Admin1 tries to login
+
+ ![login failure panel for Admin1](./media/logoufailure.png)
+
+- SystemOut.log output 
    ```
     [8/3/23 15:34:33:241 EDT] 000000af SystemOut     O username=Admin1 password=[C@64aa9921
     [8/3/23 15:34:33:241 EDT] 000000af SystemOut     O DEBUG: Admin1 is trying to login. Make login fail
