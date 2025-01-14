@@ -6,7 +6,7 @@ This repository contains a class that serves as an implementation of the custom 
 - WebSphere Application Server traditional 
 
 
-## How to create a sample TAI jar 
+## How to create a sample custom loginModule jar 
 
 `1.` Update the following file.  
 Make the necessary modifications to the SampleTAI.java file to reflect the desired behavior. This may involve implementing specific methods, modifying existing functionality, or adding additional logic as required. 
@@ -22,7 +22,7 @@ mvn package
 ./target/samplelm-1.0-SNAPSHOT.jar
 ```
 
-## How to configure TAI jar 
+## How to configure the custom loginModule jar 
 
 The following articles provide instructions on how to configure the JAR file for the WebSphere runtimes. 
 
