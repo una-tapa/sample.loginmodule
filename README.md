@@ -1,6 +1,6 @@
 # sample.loginmodule
 
-This repository contains a class that serves as an implementation of the custom login module. This project aims to create a sample login module jar file that is compatible with the following runtimes:
+This project is set up as a Maven environment, allowing the user to simply run "mvn package" to compile the basic custom login module and easily modify or extend the code as needed.  It aims to create a sample login module jar file that is compatible with the following runtimes:
 - Open Liberty
 - WebSphere Liberty
 - WebSphere Application Server traditional 
